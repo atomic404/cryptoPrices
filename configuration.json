@@ -9,11 +9,11 @@
         "ALGO": 0.50
     },
     "yourPrice": {
-        "BTC": 6.9009,
-        "BCH": 1.2,
-        "ETH": 380.2231,
-        "LTC" : 1,
-        "ALGO": 25.2901
+        "BTC": 1.111,
+        "BCH": 2.222,
+        "ETH": 3.333,
+        "LTC" : 4.444,
+        "ALGO": 5.555
     },
     "flickerTimeMs": 100
 }
