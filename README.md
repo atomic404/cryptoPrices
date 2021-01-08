@@ -1,11 +1,12 @@
 npm i axios colors
 
+npm i nodemon -g
+
 setup configuration.json
 
 install autohotkey.com and run the .ahk file
 
 click start.bat
-
 
 autohotkey:
 
