@@ -1,24 +1,8 @@
-# atshop-replacements-discord-bot
-ATShop.io | Discord Bot to replace atshop.io orders.
-- Reason for leaking this: legacy didn't pay
+npm i axios colors
+setup configuration.json
+install autohotkey.com and run the .ahk file
+click start.bat
 
-# Requirements
-  - [NodeJS](https://nodejs.org/en/download/)
-
-# Usage
-  - Type the following commands into your discord server:
-   * `$get order_id`
-   * `$replace order_id amountOfReplacements`
-
-# Installation
-
-- Make sure to enable this to prevent people from inviting the bot and exploiting your orders.
-![Disabling public bot](https://i.imgur.com/gbDDDKu.png)
-
-- Edit `tkn, atshopTkn, & atshopLink` variables first.
-
-```
-npm install discord.js moment ddp ddp-login pm2 -g
-
-pm2 start index.js --watch --name "Bot"
-```
+autohotkey:
+Press Ctrl+Shift+Space to set any currently active window to be always on top.
+Press Ctrl+Shift+Space again set the window to no longer be always on top.
