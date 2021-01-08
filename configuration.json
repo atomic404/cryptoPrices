@@ -1,0 +1,19 @@
+{
+    "token": null,
+    "yourCryptos": ["BTC", "BCH", "ETH", "LTC", "ALGO"],
+    "startPrice": {
+        "BTC": 40000,
+        "BCH": 440,
+        "ETH": 1200,
+        "LTC": 140,
+        "ALGO": 0.50
+    },
+    "yourPrice": {
+        "BTC": 6.9009,
+        "BCH": 1.2,
+        "ETH": 380.2231,
+        "LTC" : 1,
+        "ALGO": 25.2901
+    },
+    "flickerTimeMs": 100
+}
